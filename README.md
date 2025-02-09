@@ -1,4 +1,10 @@
-## Matematicka
+## Hackathon Bounties
+
+Hackbot: app is deployed at [website](matematicka.streamlit.app). The embedded url "https://hackbot.co/dashboard/will-main-party-education" shows hackbot's report on our solidity contract.
+Vyper: under src/Matematicka.vy we can find the contract written in the Vyper language.
+
+
+## About Matematicka
 The Matematicka project is a comprehensive Solidity-based smart contract system developed using the Foundry framework. It is designed to offer a streamlined development and testing environment for smart contracts, leveraging Foundry's advanced features to ensure efficient and reliable execution. This project encapsulates the best practices in Solidity development, including modular contract structures, rigorous testing, and security-focused methodologies.
 
 At its core, the Matematicka project consists of a Solidity contract to promote and enhance mathematical and science education through a decentralized and transparent protocol and currency. Future integrations of this project can be used to register, promote, and distribute transparent certificates, currency, recognizing and verifying the endeavours of individuals towards this cause in an on-chain setting.  
