@@ -1,0 +1,28 @@
+name: Hackbot Scan Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  hackbot-scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Hackbot Scan
+        uses: GatlingX/hackbot_ci@main
+        with:
+          api_key: ${{ secrets.HACKBOT_API_KEY }}
+          output: "results.json"
+          artifact: true
+          generate_issues: false
+          issues_repo: "YOUR_GITHUB_USERNAME/YOUR_ISSUES_REPO"
+        id: test-action
+
+      - name: Print output
+        run: |
+          echo "Hack result: ${{ steps.test-action.outputs.results }}"    
