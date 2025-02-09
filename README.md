@@ -1,8 +1,12 @@
 ## Hackathon Bounties
 
-Hackbot: app is deployed at [website](https://matematicka.streamlit.app). The embedded url "https://hackbot.co/dashboard/" shows hackbot's report on our solidity contract.
+### Hackbot:
 
-Vyper: under src/Matematicka.vy we can find the contract written in the Vyper language.
+app is deployed at [website](https://matematicka.streamlit.app). The embedded url "https://hackbot.co/dashboard/" shows hackbot's report on our solidity contract.
+
+### Vyper:
+
+under src/Matematicka.vy we can find the contract written in the Vyper language.
 
 
 ## About Matematicka
