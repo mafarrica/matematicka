@@ -1,0 +1,38 @@
+INFO     | ✅ Authentication successful
+INFO     | 
+❌ No [1;31mscope.txt[0m found in your project.
+INFO     | 
+Please choose how you'd like to proceed:
+INFO     | 1) [1;90mLet hackbot automatically generate scope.txt (default)[0m
+INFO     | 2) [1;90mGenerate and customize scope.txt manually[0m
+INFO     | 
+✅ Hackbot done!
+INFO     | ✅ Authentication successful
+INFO     | 
+❌ No [1;31mscope.txt[0m found in your project.
+INFO     | 
+Please choose how you'd like to proceed:
+INFO     | 1) [1;90mLet hackbot automatically generate scope.txt (default)[0m
+INFO     | 2) [1;90mGenerate and customize scope.txt manually[0m
+INFO     | ✅ Authentication successful
+INFO     | No [1;31mscope.txt[0m found in your project. Running [1;36mhackbot scope[0m now to generate one...
+INFO     | Starting HackBot Scope analysis session 'know-easy-entire-kind' at 2025-02-09 11:39:00 UTC
+INFO     | HackBot Scope analysis session 'know-easy-entire-kind' completed at 2025-02-09 11:39:11 UTC
+INFO     | ✅ Scope analysis done!
+INFO     | [1;32m✅ Scope analysis completed successfully. Now try running [1;36mhackbot run[1;32m to run the hackbot campaign.
+INFO     | ✅ Done generating scope.txt.
+INFO     | [1;34mStarting analysis... Press [1;36mCtrl+C[1;34m to cancel at any time[0m
+INFO     | A scope file found and will be used for the analysis
+INFO     | Starting HackBot session 'will-main-party-education' at 2025-02-09 11:39:12 UTC
+INFO     | Access the results at [4;34mhttps://hackbot.co/dashboard/security-report#will-main-party-education[0m
+INFO     | Starting basic detection algorithm
+INFO     | We are still working on it...
+INFO     | We are still working on it...
+INFO     | 🐛 Finding: Lack of Safe Transfer Mechanism for Contract Recipients
+INFO     | We are still working on it...
+INFO     | We are still working on it...
+INFO     | HackBot session 'will-main-party-education' completed at 2025-02-09 11:40:42 UTC
+INFO     | Access the results at [4;34mhttps://hackbot.co/dashboard/security-report#will-main-party-education[0m
+INFO     | ✅ Code analysis done!
+INFO     | 
+✅ Hackbot done!
